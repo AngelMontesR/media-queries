@@ -1,0 +1,23 @@
+@media (min-width: 700px) 
+{ 
+    .oferta {
+        padding: 3rem;
+    }  
+}
+
+@media (min-width: 900px) 
+{ 
+    .oferta {
+        font-size: 1.5rem;
+    }  
+}
+
+
+/* "media query" : {
+    "prefix": "mq",
+    "body": [
+        "@media (min-width: $1px) \n{",
+        "\t$2",
+        "}"
+    ],
+} */
