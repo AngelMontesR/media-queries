@@ -1,0 +1,26 @@
+/* Estandar Media queries */
+
+@media (min-width: 550px) 
+{
+    /* Telefono */
+}
+
+@media (min-width: 768px) 
+{
+    /* Tablet */
+}
+
+@media (min-width: 1024px) 
+{
+    /* Laptop */
+}
+
+@media (min-width: 1200px) 
+{
+    /* Desktop */
+}
+
+@media (min-width: 1600px) 
+{
+    /* Desktop grande */
+}
