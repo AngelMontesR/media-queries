@@ -9,6 +9,11 @@
     font-size: 2rem;
 }
 
+/* 
+* Mobile first , primero se define el estilo para móviles y luego se van agregando estilos para pantallas más grandes
+* los media queries van de menor a mayor
+ */
+
 @media (min-width: 600px) {
     .oferta {
         max-width: 40rem;
