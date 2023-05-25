@@ -1,0 +1,17 @@
+.oferta {
+    background-color: rgb(56, 137, 184);
+    padding: 2rem;
+    text-align: center;
+}
+
+.precio {
+    font-size: 4rem;
+    color: #fff;
+    margin: 0;
+}
+
+@media (min-width: 600px) and (max-width: 800px) , (min-width: 1000px) {
+    .oferta{
+       background-color: blueviolet;
+    }
+}
